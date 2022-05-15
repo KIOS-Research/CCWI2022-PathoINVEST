@@ -1,2 +1,2 @@
-# CCWI2022-PathoINVEST
-Repository for the code presented at CCWI2022 (Paraskevopoulos et al. 2022)
+# PathoINVEST (WDSA/CCWI 2202) 
+Repository for the code presented in the paper "PATHOINVEST: PATHOGEN CONTAMINATION INVESTIGATIONS DURING EMERGENCIES" at WDSA-CCWI 2022 
