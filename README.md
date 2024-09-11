@@ -5,4 +5,4 @@ Paraskevopoulos, S., Vrachimis, S., Kyriakou, M., Pavlou, P., Kouzapas, D., Mili
 
 
 # Journal paper
-Model and data used for the journal paper with title "Addressing Drinking Water Contamination: A Case Study Comparing Traditional with Model-based Approaches"
+Network and msx file used for the journal paper with title "Addressing Drinking Water Contamination: A Case Study Comparing Traditional with Model-based Approaches".
